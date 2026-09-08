@@ -1,0 +1,429 @@
+{
+  "appName": "VihangamKiranaStore",
+  "version": "3.0",
+  "backupDate": "2026-09-06T15:47:28.053Z",
+  "timestampReadable": "2026-09-06 09:17:28 PM",
+  "storeData": {
+    "lang": "hi",
+    "activeViewMode": "single",
+    "customers": [
+      {
+        "id": 1788658360449,
+        "name": "Rajesh Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788658474034,
+        "name": "Sanjay Chauhan",
+        "bills": {
+          "2026-09-06": {
+            "items": [
+              {
+                "id": 1788672174711,
+                "name": "चूड़ी ",
+                "price": 115
+              },
+              {
+                "id": 1788672201377,
+                "name": "नमक ",
+                "price": 15
+              }
+            ],
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1788658509901,
+        "name": "Aditya Singh",
+        "bills": {}
+      },
+      {
+        "id": 1788658530910,
+        "name": "Anjani Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788658552536,
+        "name": "Suresh Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788658569457,
+        "name": "Shivbachan Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788658597739,
+        "name": "Mathura Chauhan",
+        "bills": {
+          "2026-09-06": {
+            "items": [
+              {
+                "id": 1788672251765,
+                "name": "पारले जी ",
+                "price": 20
+              }
+            ],
+            "trash": [],
+            "paid": 0
+          }
+        }
+      },
+      {
+        "id": 1788658616165,
+        "name": "Pappu Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788658638703,
+        "name": "Ramesh Chauhan",
+        "bills": {
+          "2026-09-06": {
+            "items": [
+              {
+                "id": 1788672313050,
+                "name": "पारले जी ",
+                "price": 2
+              },
+              {
+                "id": 1788672334299,
+                "name": "नेल पालिस ",
+                "price": 5
+              }
+            ],
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1788658653072,
+        "name": "Shrawan Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788658683322,
+        "name": "Kanhaiya Chauhan",
+        "bills": {
+          "2026-09-06": {
+            "items": [
+              {
+                "id": 1788672376551,
+                "name": "चीनी ",
+                "price": 16
+              },
+              {
+                "id": 1788672393904,
+                "name": "पारले जी ",
+                "price": 2
+              }
+            ],
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1788658704116,
+        "name": "Shri Bhagwan Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788658856761,
+        "name": "Avadhesh Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788658875258,
+        "name": "Umesh Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788658892867,
+        "name": "Saroj Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788658907373,
+        "name": "Anil Chauhan",
+        "bills": {
+          "2026-09-06": {
+            "items": [
+              {
+                "id": 1788672448933,
+                "name": "सोयाबीन ",
+                "price": 10
+              },
+              {
+                "id": 1788672467447,
+                "name": "चना ",
+                "price": 10
+              },
+              {
+                "id": 1788672479624,
+                "name": "रिफाईन तेल ",
+                "price": 80
+              },
+              {
+                "id": 1788672555550,
+                "name": "कुरकुरा ",
+                "price": 10
+              }
+            ],
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1788658922638,
+        "name": "Mochhu Chauhan",
+        "bills": {
+          "2026-09-06": {
+            "items": [
+              {
+                "id": 1788672592793,
+                "name": "केक ",
+                "price": 10
+              }
+            ],
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1788658939447,
+        "name": "Tuntun Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788658953384,
+        "name": "Meera Chauhan",
+        "bills": {
+          "2026-09-06": {
+            "items": [
+              {
+                "id": 1788672650630,
+                "name": "बाकी ",
+                "price": 10
+              },
+              {
+                "id": 1788672666759,
+                "name": "मेहँदी ",
+                "price": 10
+              },
+              {
+                "id": 1788672678840,
+                "name": "पारले जी ",
+                "price": 6
+              },
+              {
+                "id": 1788672695225,
+                "name": "कुरकुरा ",
+                "price": 5
+              },
+              {
+                "id": 1788672708155,
+                "name": "पारले जी ",
+                "price": 5
+              },
+              {
+                "id": 1788672721804,
+                "name": "गुब्बारा ",
+                "price": 2
+              }
+            ],
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1788658968721,
+        "name": "Vinod Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788658985699,
+        "name": "Muneshwar Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788659015854,
+        "name": "Pintu Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788659035631,
+        "name": "Ram Singh Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788659054521,
+        "name": "Arjun Chauhan",
+        "bills": {}
+      },
+      {
+        "id": 1788659246288,
+        "name": "Ramchanar Turaha",
+        "bills": {
+          "2026-09-06": {
+            "items": [
+              {
+                "id": 1788672816932,
+                "name": "तेल ",
+                "price": 10
+              }
+            ],
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1788659261689,
+        "name": "Rai Turaha",
+        "bills": {
+          "2026-09-06": {
+            "items": [
+              {
+                "id": 1788672856519,
+                "name": "चीनी ",
+                "price": 51
+              },
+              {
+                "id": 1788672873224,
+                "name": "तेल ",
+                "price": 60
+              },
+              {
+                "id": 1788672885385,
+                "name": "पारले जी ",
+                "price": 2
+              },
+              {
+                "id": 1788672900123,
+                "name": "तेल ",
+                "price": 55
+              }
+            ],
+            "trash": []
+          }
+        }
+      },
+      {
+        "id": 1788659272610,
+        "name": "Ramoon Turaha",
+        "bills": {}
+      },
+      {
+        "id": 1788659282531,
+        "name": "Manoj Turaha",
+        "bills": {}
+      },
+      {
+        "id": 1788659292276,
+        "name": "Kanhaiya Chand Turaha",
+        "bills": {
+          "2026-09-06": {
+            "items": [
+              {
+                "id": 1788673034517,
+                "name": "साबुन ",
+                "price": 10
+              },
+              {
+                "id": 1788673051015,
+                "name": "निरमा ",
+                "price": 20
+              },
+              {
+                "id": 1788673065352,
+                "name": "कुरकुरा ",
+                "price": 5
+              },
+              {
+                "id": 1788673084554,
+                "name": "लहसुन ",
+                "price": 5
+              },
+              {
+                "id": 1788673099547,
+                "name": "राजेश मसाला ",
+                "price": 5
+              }
+            ],
+            "trash": [],
+            "paid": 0
+          }
+        }
+      },
+      {
+        "id": 1788659302013,
+        "name": "Virodhi Turaha",
+        "bills": {}
+      },
+      {
+        "id": 1788659310405,
+        "name": "Gopal Turaha",
+        "bills": {}
+      },
+      {
+        "id": 1788659320030,
+        "name": "Shivji Turaha",
+        "bills": {}
+      },
+      {
+        "id": 1788659329567,
+        "name": "Doodhnath Turaha",
+        "bills": {}
+      },
+      {
+        "id": 1788659339407,
+        "name": "Mallu Turaha",
+        "bills": {}
+      },
+      {
+        "id": 1788659347569,
+        "name": "Bangur Turaha",
+        "bills": {}
+      },
+      {
+        "id": 1788659355777,
+        "name": "Krishna Chand Turaha",
+        "bills": {}
+      },
+      {
+        "id": 1788659365074,
+        "name": "Roodal Turaha",
+        "bills": {}
+      },
+      {
+        "id": 1788659377139,
+        "name": "Sunil Turaha",
+        "bills": {}
+      },
+      {
+        "id": 1788659386236,
+        "name": "Nandji Turaha",
+        "bills": {}
+      },
+      {
+        "id": 1788659396541,
+        "name": "Rajesh Turaha",
+        "bills": {}
+      },
+      {
+        "id": 1788659422439,
+        "name": "Bhuwal Turaha",
+        "bills": {}
+      }
+    ],
+    "selectedCustomerId": 1788658597739,
+    "selectedDate": "2026-09-06"
+  },
+  "authUsers": [
+    {
+      "name": "विहंगम किराना स्टोर",
+      "password": "266311"
+    }
+  ],
+  "customerDeletePin": "266312",
+  "customerAddPin": "266314"
+}
